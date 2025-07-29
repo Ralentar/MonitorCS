@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|C:\\Users\\Professional\\source\\csharp\\MonitorCS\\monitorcs\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|solutionrelative:monitorcs\\scaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|c:\\users\\professional\\source\\csharp\\monitorcs\\monitorcs\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|solutionrelative:monitorcs\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|C:\\Users\\Professional\\source\\csharp\\MonitorCS\\monitorcs\\utils\\uconfigdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|solutionrelative:monitorcs\\utils\\uconfigdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|C:\\Users\\Professional\\source\\csharp\\MonitorCS\\monitorcs\\utils\\uoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|solutionrelative:monitorcs\\utils\\uoracle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|C:\\Users\\Professional\\source\\csharp\\MonitorCS\\monitorcs\\utils\\udatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66AD07D8-694D-4F9C-9DAA-BE57759F8494}|MonitorCS\\MonitorCS.csproj|solutionrelative:monitorcs\\utils\\udatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UOracle.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Utils\\UOracle.cs",
+              "RelativeDocumentMoniker": "MonitorCS\\Utils\\UOracle.cs",
+              "ToolTip": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Utils\\UOracle.cs",
+              "RelativeToolTip": "MonitorCS\\Utils\\UOracle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:32:43.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UDataBase.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Utils\\UDataBase.cs",
+              "RelativeDocumentMoniker": "MonitorCS\\Utils\\UDataBase.cs",
+              "ToolTip": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Utils\\UDataBase.cs",
+              "RelativeToolTip": "MonitorCS\\Utils\\UDataBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:32:43.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UConfigDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Utils\\UConfigDatabase.cs",
+              "RelativeDocumentMoniker": "MonitorCS\\Utils\\UConfigDatabase.cs",
+              "ToolTip": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Utils\\UConfigDatabase.cs",
+              "RelativeToolTip": "MonitorCS\\Utils\\UConfigDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:32:42.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\MainForm.cs",
+              "RelativeDocumentMoniker": "MonitorCS\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\MainForm.cs",
+              "RelativeToolTip": "MonitorCS\\MainForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAEwOUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:30:55.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scaner.cs",
+              "DocumentMoniker": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Scaner.cs",
+              "RelativeDocumentMoniker": "MonitorCS\\Scaner.cs",
+              "ToolTip": "C:\\Users\\Professional\\source\\csharp\\MonitorCS\\MonitorCS\\Scaner.cs",
+              "RelativeToolTip": "MonitorCS\\Scaner.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:29:40.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

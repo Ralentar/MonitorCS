@@ -1,0 +1,5 @@
+﻿host:192.168.1.1
+port:1234
+sid:myDataBase
+user:myName
+password:myPassword
